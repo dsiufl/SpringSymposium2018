@@ -1,1 +1,1 @@
-# SpringSymposium2018
+This repo contains all the files necessary to attend the workshops at the UF DSI Spring 2018 Symposium. If you have any questions about this repo, please reach out to the workshop coordinator, Tyler Richards, at tylerjrichards@gmail.com 
